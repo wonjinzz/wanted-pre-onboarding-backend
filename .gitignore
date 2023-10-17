@@ -1,0 +1,4 @@
+config
+migrations
+node_modules
+seeders
